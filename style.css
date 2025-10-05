@@ -125,7 +125,8 @@ img{
     background-color: rgb(255, 255, 255);
     padding-bottom: 1px;
     height: 500px;
-    width: 100%;background-image: url(/Handphone\ \(1\).webp);
+    width: 100%;
+    background-image: url(/Handphone\ \(1\).webp);
       background-position: right bottom;
    background-size: cover;
     text-align: center;
