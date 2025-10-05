@@ -1,0 +1,13 @@
+ <div id="model2">
+            <h1>iPhone Air</h1>
+
+           <div id="model3">
+             <h4>The thinnest iPhone ever.</h4>
+            <h4>With the power of pro inside.</h4>
+           </div>
+
+        </div>
+        <div id="links2">
+            <button>Learn more</button>
+            <button>Buy</button>
+        </div>
